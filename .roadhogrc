@@ -1,10 +1,13 @@
 {
-  "entry": "src/index.js",
-  "env": {
+"entry": "src/pages/*/*.js",
+"outputPath":"../resourcex/",  
+"multipage":true,
+"env": {
     "development": {
       "extraBabelPlugins": [
         "dva-hmr",
-        "transform-runtime"
+        "transform-runtime",
+["import", { "libraryName": "antd", "style": "css" }]
       ]
     },
     "production": {
