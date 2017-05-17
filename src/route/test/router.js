@@ -5,9 +5,8 @@ import TestPage from '../../routes/test/TestPage';
 function RouterConfig({ history }) {
   return (
     <Router history={history}>
-<Route path="/test.html" component={TestPage} />
-<Route path="/test/*.html" component={TestPage} />
-    </Router>
+<Route path="/" component={TestPage} />
+   </Router>
   );
 }
 

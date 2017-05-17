@@ -1,5 +1,6 @@
 {
 "entry": "src/pages/*/*.js",
+"publicPath":"../resourcex/",
 "outputPath":"../resourcex/",  
 "multipage":true,
 "env": {

@@ -1,0 +1,177 @@
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+nohup: 忽略输入
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  84.79 KB  ../resourcex/common.js
+  683 B     ../resourcex/test.js
+  665 B     ../resourcex/index.js
+  304 B     ../resourcex/index.css
+  304 B     ../resourcex/test.css
+
+
+> @ start /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog server
+
+Starting the development server...
+
+Compiled successfully!
+
+The app is running at:
+
+  http://localhost:8000/
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+./hhhstart.sh: line 2: 15769 已杀死               npm start
+nohup: 忽略输入
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  84.79 KB  ../resourcex/common.js
+  683 B     ../resourcex/test.js
+  665 B     ../resourcex/index.js
+  304 B     ../resourcex/index.css
+  304 B     ../resourcex/test.css
+
+
+> @ start /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog server
+
+Starting the development server...
+
+Compiled successfully!
+
+The app is running at:
+
+  http://localhost:8000/
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+nohup: 忽略输入
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+nohup: 忽略输入
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+nohup: 忽略输入
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  84.79 KB  ../resourcex/common.js
+  683 B     ../resourcex/test.js
+  665 B     ../resourcex/index.js
+  304 B     ../resourcex/index.css
+  304 B     ../resourcex/test.css
+
+
+> @ start /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog server
+
+nohup: 忽略输入
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  84.79 KB  ../resourcex/common.js
+  683 B     ../resourcex/test.js
+  665 B     ../resourcex/index.js
+  304 B     ../resourcex/index.css
+  304 B     ../resourcex/test.css
+
+
+> @ start /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog server
+
+Starting the development server...
+
+Compiled successfully!
+
+The app is running at:
+
+  http://localhost:8000/
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+nohup: 忽略输入
+
+> @ build /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog build
+
+Creating an optimized production build...
+nohup: 忽略输入
+
+> @ start /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog server
+
+Starting the development server...
+
+Compiled successfully!
+
+The app is running at:
+
+  http://localhost:8000/
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+nohup: 忽略输入
+
+> @ start /data/wwwroot/default/antd-demo/antd-demo4/dva-quickstart
+> roadhog server
+
+Starting the development server...
+
+Compiled successfully!
+
+The app is running at:
+
+  http://localhost:8000/
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+File ./.roadhogrc changed, try to restart server
+Failed to parse .roadhogrc config.
+
+Error in ./roadhogrc
+Syntax error: Unexpected token 'o' , (4:2)
+
+"outputPath":"../resourcex/",  
+ ^
